@@ -1,0 +1,4 @@
+repository "first@ssl://dragonlhl@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/2804008044" 
+     
